@@ -97,7 +97,9 @@ The AI-based traffic controller significantly reduces average waiting time compa
 ---
 
 ## Demo Video
-[Watch the demo here]https://youtu.be/ycu4LJ_EJ0g
+
+[Watch the demo here](https://youtu.be/ycu4LJ_EJ0g)
+
 
 
 ## Author
