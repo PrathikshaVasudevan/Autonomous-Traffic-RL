@@ -1,5 +1,7 @@
 # Autonomous Traffic Optimization using Reinforcement Learning
 
+This project was developed during the Winter Internship'25 at console.success 
+
 ## Problem Statement
 
 Traditional traffic signals operate on static or fixed timers, which cannot adapt to real-time traffic conditions. This project implements an AI-powered traffic controller using Reinforcement Learning (DQN) to dynamically optimize traffic flow and minimize cumulative waiting time.
